@@ -1,0 +1,23 @@
+name: paulk-blog
+favicon: null
+layout_spectrum: 0.22445806488394737
+typography_spectrum: 0.7228826598729938
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7273479378782213
+  lightness: 0.28283944190479815
+  saturation: 0.8134957426227629
+  rhythmicContrast: 0.9861214028205723
+purpose: []
