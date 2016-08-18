@@ -1,4 +1,7 @@
-purpose: []
+name: Griddle Cakes
+favicon: null
+layout_spectrum: 0.2244580648839474
+typography_spectrum: 0.7228826598729938
 collections:
   - index:
       path: /
@@ -11,25 +14,22 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.8134958
-  brandStrength: 0.2043011
-  lightness: 0.6648746
-  brandColors: []
-  rhythmicContrast: 0.9856631
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: paulk-blog
-favicon: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.7228826598729938
-layout_spectrum: 0.2244580648839474
+color:
+  brandColors: []
+  brandStrength: 0.2043011
+  lightness: 0.6648746
+  saturation: 0.8134958
+  rhythmicContrast: 0.9856631
+purpose: []
