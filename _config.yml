@@ -1,35 +1,35 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.2244580648839474
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.8134958
+  brandStrength: 0.2043011
+  lightness: 0.6648746
+  brandColors: []
+  rhythmicContrast: 0.9856631
 cta:
   bucket: null
   version: null
   domain: null
-color:
-  saturation: 0.8134957426227629
-  brandStrength: 0.7273479378782213
-  rhythmicContrast: 0.9861214028205723
-  brandColors: []
-  lightness: 0.2828394419047982
-purpose: []
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: paulk-blog
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 typography_spectrum: 0.7228826598729938
+layout_spectrum: 0.2244580648839474
